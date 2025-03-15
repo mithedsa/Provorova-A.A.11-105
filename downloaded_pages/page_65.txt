@@ -1,0 +1,27 @@
+The First 100,000 Prime Numbers by Unknown
+
+"The First 100,000 Prime Numbers" by Unknown is likely a scientific publication related to mathematics, particularly number theory, probably written in the late 20th century. The work compiles and lists the first 100,000 prime numbers, providing valuable reference material for mathematicians and enthusiasts interested in prime numbers and their characteristics. The opening of the text includes an introduction to the program used to calculate the prime numbers, showcasing a simple C program...Read Moredesigned to take user input and print prime numbers starting from a specified point. The structure of the program is basic, indicating the computational processes involved in identifying prime numbers, such as checking for factors to determine primality. Following the program code, the opening also includes a list of the first several prime numbers, suggesting the book’s focus is not just on the numerical data itself, but also on the methods used to arrive at these mathematical results. (This is an automatically generated summary.)Show Less
+
+Author: Unknown
+
+Title: The First 100,000 Prime Numbers
+
+Language: English
+
+LoC Class: QA: Science: Mathematics
+
+Subject: Mathematics
+
+Subject: Numbers, Prime
+
+Category: Data Set
+
+EBook-No.: 65
+
+Release Date: May 1, 1993
+
+Most Recently Updated: Jan 1, 2021
+
+Copyright Status: Public domain in the USA.
+
+Downloads: 160 downloads in the last 30 days.

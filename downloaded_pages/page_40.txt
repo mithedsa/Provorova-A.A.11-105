@@ -1,0 +1,29 @@
+NorthWestNet User Services Internet Resource Guide (NUSIRG) by Jonathan Kochmer
+
+"NORTHWESTNET USER SERVICES INTERNET RESOURCE GUIDE (NUSIRG)" by Jonathan Kochmer is a technical guide created in the early 1990s. The guide serves as a comprehensive resource for users of the NorthWestNet indexing various internet services, policies, and user support systems tied to the network. It is primarily aimed at individuals affiliated with the NorthWestNet network, including academics, researchers, and members of the education community. The beginning of the guide lays out essential...Read Moreinformation on how users can access the NUSIRG for free via the File Transfer Protocol (FTP) or purchase a printed version. It details instructions for using FTP to obtain the guide and mentions the availability of various file formats. Furthermore, it highlights the NorthWestNet's mission, emphasizing education, research, and the expansion of network connectivity in the region through programs, training, and user support. The initial pages provide an overview of the structure and content of the guide, leading into sections that cover acceptable use policies and the operations of the network's services. (This is an automatically generated summary.)Show Less
+
+Author: Kochmer, Jonathan
+
+Title: NorthWestNet User Services Internet Resource Guide (NUSIRG)
+
+Original Publication: 1992
+
+Note: PostScript file
+
+Language: English
+
+LoC Class: TK: Technology: Electrical, Electronics and Nuclear engineering
+
+Subject: Internet
+
+Category: Text
+
+EBook-No.: 40
+
+Release Date: Sep 1, 1992
+
+Most Recently Updated: Dec 22, 2011
+
+Copyright Status: Copyrighted. Read the copyright notice inside this book for details.
+
+Downloads: 141 downloads in the last 30 days.

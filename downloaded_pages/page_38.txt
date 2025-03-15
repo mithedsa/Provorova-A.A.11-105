@@ -1,0 +1,35 @@
+The Jargon File, Version 2.9.10, 01 Jul 1992 by Eric S. Raymond and Guy L. Steele
+
+"The Jargon File, Version 2.9.10" by Eric S. Raymond and Guy L. Steele is a collection of hacker slang and terminology compiled during the late 20th century, particularly the early 1990s. This lexicon serves as a comprehensive document about the unique language, culture, and humor found within the hacker community, showcasing the shared folklore and traditions that define it. The beginning of the work outlines its purpose as a compendium of the...Read Morerich linguistic traditions of hackers. It clarifies that while the document contains some technical information, its primary focus is on informal, fun communication among hackers. The authors explain the unique jargon that forms part of their culture, highlighting how slang fosters community inclusion, identifies hackers, and distinguishes insiders from outsiders. This introductory portion elaborates on the historical development of the Jargon File and its significance in documenting the evolution and nuances of hacker speak. (This is an automatically generated summary.)Show Less
+
+Editor: Raymond, Eric S., 1957-
+
+Editor: Steele, Guy L., 1954-
+
+Title: The Jargon File, Version 2.9.10, 01 Jul 1992
+
+Note: Reading ease score: 64.2 (8th & 9th grade). Neither easy nor difficult to read.
+
+Note: Wikipedia page about this book: https: //en.wikipedia.org/wiki/Jargon_File
+
+Language: English
+
+LoC Class: TK: Technology: Electrical, Electronics and Nuclear engineering
+
+Subject: Electronic data processing -- Terminology -- Humor
+
+Subject: Computers -- Humor
+
+Subject: Computers -- Slang -- Dictionaries
+
+Category: Text
+
+EBook-No.: 38
+
+Release Date: Aug 1, 1992
+
+Most Recently Updated: Jan 1, 2021
+
+Copyright Status: Public domain in the USA.
+
+Downloads: 353 downloads in the last 30 days.

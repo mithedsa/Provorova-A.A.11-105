@@ -1,0 +1,29 @@
+The Number "e" by Unknown
+
+"The Number 'e'" by Unknown is a mathematical publication likely written in the late 20th century. The book appears to delve into the mathematical constant 'e' and provides an extensive computation of its value to a hundred thousand decimal places, showcasing both the calculation methodology and the significance of this number in mathematics. The opening section primarily presents the calculated value of 'e', systematically displayed to an astonishing degree of precision. It...Read Morenotes the computational technique used to derive this expansive sequence, involving an alternating series to determine the value of 1/e, which is subsequently inverted to arrive at 'e'. The text illustrates the technical process and the time it took to execute the calculations, providing insight into the computational advancements in mathematics. Overall, this beginning sets the stage for a detailed exploration of the mathematical constant 'e', highlighting its importance and the complexity inherent in its calculation. (This is an automatically generated summary.)Show Less
+
+Author: Unknown
+
+Title: The Number "e"
+
+Note: Natural Log to about 100,000 places
+
+Language: English
+
+LoC Class: QA: Science: Mathematics
+
+Subject: Mathematics
+
+Subject: Mathematical constants
+
+Category: Text
+
+EBook-No.: 63
+
+Release Date: Apr 1, 1993
+
+Most Recently Updated: Jan 1, 2021
+
+Copyright Status: Public domain in the USA.
+
+Downloads: 241 downloads in the last 30 days.

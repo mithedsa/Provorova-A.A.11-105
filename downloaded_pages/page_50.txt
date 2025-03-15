@@ -1,0 +1,27 @@
+Pi by Scott Hemphill
+
+"Pi" by Scott Hemphill is a detailed scientific publication likely written in the late 20th century. The book focuses on the computation and representation of the digits of pi, employing advanced mathematical methods and algorithms, reflecting the author's dedication to precision and accuracy in numerical analysis. The beginning of "Pi" introduces readers to a series of forwarded messages detailing the author's experience in computing the digits of pi using Borwein's method. Hemphill...Read Moredescribes the process of multiplication for large numbers executed in assembly language, sharing insights into the computational challenges he faced and how he verified his results against other sources. This opening also reveals the vast scale of the calculations involved, as Hemphill calculated pi to over a million digits, showcasing both the technical rigor required and the collaborative nature of mathematical exploration in this field. (This is an automatically generated summary.)Show Less
+
+Author: Hemphill, Scott
+
+Title: Pi
+
+Language: English
+
+LoC Class: QA: Science: Mathematics
+
+Subject: Mathematics
+
+Subject: Pi
+
+Category: Data Set
+
+EBook-No.: 50
+
+Release Date: Jan 1, 1993
+
+Most Recently Updated: Jan 1, 2021
+
+Copyright Status: Public domain in the USA.
+
+Downloads: 300 downloads in the last 30 days.

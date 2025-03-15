@@ -1,0 +1,29 @@
+The 32nd Mersenne Prime by David Slowinski
+
+"The 32nd Mersenne Prime" by David Slowinski is a scientific publication likely written in the early 21st century. The text appears to delve into the discovery of a significant prime number, specifically the 32nd Mersenne Prime, highlighting its mathematical importance and the computational power involved in verifying its existence. The opening of the work presents the discovery of the 32nd Mersenne Prime in February 1993, attributing the breakthrough to the efforts surrounding...Read MoreAndrew Wiles' proof of Fermat's Last Theorem. The Mersenne number, represented in a lengthy numeric form, showcases the scale of what the author describes, indicating not just the numerical value but also the process required to compute such a prime number. This section serves as an introduction to the complexity of prime numbers and the excitement surrounding significant mathematical milestones, potentially engaging readers interested in number theory and computational mathematics. (This is an automatically generated summary.)Show Less
+
+Author: Slowinski, David
+
+Title: The 32nd Mersenne Prime Predicted by Mersenne
+
+Note: Math
+
+Language: English
+
+LoC Class: QA: Science: Mathematics
+
+Subject: Numbers, Prime
+
+Subject: Number theory
+
+Category: Text
+
+EBook-No.: 69
+
+Release Date: Jun 1, 1993
+
+Most Recently Updated: Jan 1, 2021
+
+Copyright Status: Public domain in the USA.
+
+Downloads: 227 downloads in the last 30 days.

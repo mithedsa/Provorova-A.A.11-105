@@ -1,0 +1,33 @@
+Zen and the Art of the Internet by Brendan P. Kehoe
+
+"Zen and the Art of the Internet" by Brendan P. Kehoe is a beginner's guide to navigating the Internet, written in the early 1990s. This practical manual aims to familiarize novice users with the various functions and features of the Internet, offering insight into both its potential and its complexities as a communication tool. The opening of the guide introduces readers to the purpose of the text, which is to serve as...Read Moreboth a reference for quick queries and a foundational resource for exploring the Internet. It emphasizes that the material is designed to be broadly applicable and not tied to any specific operating system. The text addresses the great expanse of information accessible via the Internet and cautions users about the time-consuming nature of online exploration. Specific terms, such as email addresses and domain names, are briefly explained, providing a glimpse into the foundational knowledge that the guide will cover in greater depth. (This is an automatically generated summary.)Show Less
+
+Author: Kehoe, Brendan P., 1970-2011
+
+Title: Zen and the Art of the Internet
+
+Note: Reading ease score: 55.8 (10th to 12th grade). Somewhat difficult to read.
+
+Language: English
+
+LoC Class: TK: Technology: Electrical, Electronics and Nuclear engineering
+
+Subject: Internet
+
+Subject: Computer networks
+
+Subject: Information networks
+
+Subject: Information retrieval
+
+Category: Text
+
+EBook-No.: 34
+
+Release Date: Jun 1, 1992
+
+Most Recently Updated: Dec 17, 2011
+
+Copyright Status: Copyrighted. Read the copyright notice inside this book for details.
+
+Downloads: 281 downloads in the last 30 days.

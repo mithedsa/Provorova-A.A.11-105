@@ -1,0 +1,31 @@
+Hitchhiker's Guide to the Internet by Ed Krol
+
+"The Hitchhiker's Guide to the Internet" by Ed Krol is a practical guidebook aimed at those familiar with local area networks, written during the late 1980s. This comprehensive manual provides insight into the structure, protocols, and operations of the emerging Internet, serving as an essential resource for networking professionals and enthusiasts looking to connect their systems to the wider Internet. The book's content is reflective of an era when the Internet was...Read Moretransitioning from experimental networks to a more interconnected global framework. The book covers a vast range of topics essential for understanding the Internet's functionality, starting from its historical context with the ARPAnet and leading to the complexities of network protocols, addressing, and domain name services. Krol explains critical concepts such as RFCs (Request for Comments), addressing allocation, and the role of various entities like the Network Information Center (NIC). The guide is both informative and technical, providing detailed procedures for network operation, troubleshooting, and effective use of Internet resources, making it a valuable resource for those entering the field of computer networking amidst the rapid evolution of digital communications. (This is an automatically generated summary.)Show Less
+
+Author: Krol, Ed, 1951-
+
+Title: Hitchhiker's Guide to the Internet
+
+Note: Wikipedia page about this book: https: //en.wikipedia.org/wiki/The_Hitchhikers_Guide_to_the_Internet
+
+Note: Reading ease score: 63.0 (8th & 9th grade). Neither easy nor difficult to read.
+
+Language: English
+
+LoC Class: TK: Technology: Electrical, Electronics and Nuclear engineering
+
+Subject: Internet
+
+Subject: Computer networks
+
+Category: Text
+
+EBook-No.: 39
+
+Release Date: Sep 1, 1992
+
+Most Recently Updated: Dec 17, 2011
+
+Copyright Status: Copyrighted. Read the copyright notice inside this book for details.
+
+Downloads: 334 downloads in the last 30 days.

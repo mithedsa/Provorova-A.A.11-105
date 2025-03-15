@@ -1,0 +1,27 @@
+The Square Root of 2 by Stan Kerr
+
+No Description
+
+Author: Kerr, Stan
+
+Title: The Square Root of 2
+
+Language: English
+
+LoC Class: QA: Science: Mathematics
+
+Subject: Mathematics
+
+Subject: Square root
+
+Category: Data Set
+
+EBook-No.: 52
+
+Release Date: Feb 1, 1993
+
+Most Recently Updated: Jan 1, 2021
+
+Copyright Status: Public domain in the USA.
+
+Downloads: 65 downloads in the last 30 days.
