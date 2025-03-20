@@ -2,4 +2,4 @@
 
 Перед запуском необходимо установить следующие библиотеки:
 
-pip install requests beautifulsoup4
+pip install nltk pymorphy2
