@@ -1,0 +1,38 @@
+author: Author
+by: by
+category: Category
+class: Class
+copyright: Copyright
+data: Data
+date: Date
+days: days
+description: Description
+domain: domain
+downloads: Downloads downloads
+english: English
+feb: Feb
+in: in
+jan: Jan
+kerr: Kerr
+language: Language
+last: last
+loc: LoC
+mathematics: Mathematics
+most: Most
+no: No
+of: of
+public: Public
+qa: QA
+recently: Recently
+release: Release
+root: Root root
+science: Science
+set: Set
+square: Square
+stan: Stan
+status: Status
+subject: Subject
+the: The the
+title: Title
+updated: Updated
+usa: USA
